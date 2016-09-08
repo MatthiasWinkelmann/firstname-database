@@ -1,4 +1,4 @@
-= List of first names, genders and country-specific frequencies
+# List of first names, genders and country-specific frequencies
 
  This file is subject to the GNU Free Documentation License.
  Permission is granted to copy, distribute and/or modify
