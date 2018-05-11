@@ -1,47 +1,4 @@
-# List of first names, genders and country-specific frequencies
-# This file is subject to the GNU Free Documentation License.
-# Permission is granted to copy, distribute and/or modify
-# this document under the terms of the GNU Free Documentation
-# License, Version 1.2 or any later version published by the
-# Free Software Foundation; with no Invariant Sections,
-# no Front-Cover Texts, and no Back-Cover Texts.
-#
-# Copyright (c):
-# 2007-2008:  Jörg MICHAEL, Adalbert-Stifter-Str. 11,
-#             30655 Hannover, Germany
-# Updated 2016:
-#             Matthias Winkelmann, <m@matthi.coffee>
-#             https://matthi.coffee
-#             https://twitter.com/whereismatthi
-#             Github: https://github.com/MatthiasWinkelmann/name-database
-#
-# Original work at http://www.heise.de/ct/ftp/07/17/182/
-#
-#
-# This file is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty
-# of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
-#
-# A copy of the license can be found in the file GNU_DOC.TXT.
-# You should have received a copy of the GNU Free Documentation
-# License along with this file;
-# if not, write to the  Free Software Foundation, Inc.,
-# 675 Mass Ave, Cambridge, MA 02139, USA.
-#
-# Gender is encoded in column 2 as:
-#
-# F  female
-# 1F female if first part of name, otherwise mostly male
-# ?F mostly female
-# M  male
-# 1M male if first part of name, otherwise mostly female
-# ?M mostly male
-# ?  unisex
-#
-# Frequencies are encoded in (2^x)% of the population,
-# i. e. a "-2" in column 31 indicates a frequency between 2^-4 = 0.0625% and 2^-3 = 0.125% of the population of Great Britain
-name;gender;frequencies
-;;Great Britain;Ireland;U.S.A.;Italy;Malta;Portugal;Spain;France;Belgium;Luxembourg;the Netherlands;East Frisia;Germany;Austria;Swiss;Iceland;Denmark;Norway;Sweden;Finland;Estonia;Latvia;Lithuania;Poland;Czech Republic;Slovakia;Hungary;Romania;Bulgaria;Bosnia and Herzegovina;Croatia;Kosovo;Macedonia;Montenegro;Serbia;Slovenia;Albania;Greece;Russia;Belarus;Moldova;Ukraine;Armenia;Azerbaijan;Georgia;Kazakhstan/Uzbekistan,etc.;Turkey;Arabia/Persia;Israel;China;India/Sri Lanka;Japan;Korea;Vietnam;other countries
+name;gender;Great Britain;Ireland;U.S.A.;Italy;Malta;Portugal;Spain;France;Belgium;Luxembourg;the Netherlands;East Frisia;Germany;Austria;Swiss;Iceland;Denmark;Norway;Sweden;Finland;Estonia;Latvia;Lithuania;Poland;Czech Republic;Slovakia;Hungary;Romania;Bulgaria;Bosnia and Herzegovina;Croatia;Kosovo;Macedonia;Montenegro;Serbia;Slovenia;Albania;Greece;Russia;Belarus;Moldova;Ukraine;Armenia;Azerbaijan;Georgia;Kazakhstan/Uzbekistan,etc.;Turkey;Arabia/Persia;Israel;China;India/Sri Lanka;Japan;Korea;Vietnam;other countries
 Aad;M;;;;;;;;;;;-5;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Aadam;M;;;;;;;;;;;;;;;;;;;;;-8;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Aadje;F;;;;;;;;;;;-8;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -135,9 +135,9 @@ HEAD
          gender = line.split(' ').first
          name = line.split(' ')[1].gsub(/<.+>/, characters)
 
-         countries = line[30,55].split('').map do |freq|
+         countries = line[30,55].split('').map { |freq|
             freq.empty? ? '' : frequencies[freq]
-         end
+         }
          .join(';')
          newline = [name, gender, countries].join(';') + "\n"
          out.write(newline)
