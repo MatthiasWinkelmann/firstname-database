@@ -43,8 +43,8 @@
  - ?M mostly male
  - ?  unisex
 
- Frequencies are encoded in $(2^x)\%$ of the population,
- i. e. a "-2" in column 31 indicates a frequency between $2^{-4} = 0.0625\%$ and $2^{-3} = 0.125\%$ of the population of Great Britain
+ Frequencies are encoded in $(2^x)\\%$ of the population,
+ i. e. a "-2" in column 31 indicates a frequency between $2^{-4} = 0.0625\\%$ and $2^{-3} = 0.125\\%$ of the population of Great Britain
 
 ## A few words on quality of data
 
