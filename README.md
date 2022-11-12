@@ -69,7 +69,7 @@ Or consider the following first names:
 
 | name      | description                                               |
 | ----      | -----------                                               |
-| Mitja     | male Russian name                                        |
+| Mitja     | male Russian name                                         |
 | Elizaveta | rare name; looks like misspelled "Elizabeta"              |
 | Roelf     | rare name; looks like German "Rolf" with an erroneous 'e' |
 
