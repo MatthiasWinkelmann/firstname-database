@@ -92,8 +92,8 @@ Thus, "Jun+Wei" represents the names "Jun-Wei", "Jun Wei" and "Junwei".
 | – unisex names        |    9907 |
 | Equivalent name pairs |     734 |
 
-| area                                   | number |
-| ----                                   | ------:|
+| area                                   | number | notes            |
+| ----                                   | ------:| -----            |
 | Names from Great Britain               |  2232  |
 | Names from Ireland                     |   876  |
 | Names from U.S.A.                      |  3916  |
@@ -105,7 +105,7 @@ Thus, "Jun+Wei" represents the names "Jun-Wei", "Jun Wei" and "Junwei".
 | Names from Belgium                     |  1518  |
 | Names from Luxembourg                  |   564  |
 | Names from the Netherlands             |  3302  |
-| Names from East Frisia                 |  2589 ("Ostfriesland") |
+| Names from East Frisia                 |  2589  | ("Ostfriesland") |
 | Names from Germany                     |  2636  |
 | Names from Austria                     |  1753  |
 | Names from Swiss                       |  2464  |
