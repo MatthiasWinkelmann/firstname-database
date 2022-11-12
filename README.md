@@ -85,7 +85,7 @@ Thus, "Jun+Wei" represents the names "Jun-Wei", "Jun Wei" and "Junwei".
 ## Statistics of first names in dictionary
 
 | category              |  number |
-| --------              |  ------ |
+| --------              |  ------:|
 | Number of first names |   44568 |
 | – girl's names        |   16921 |
 | – boy's  names        |   17740 |
