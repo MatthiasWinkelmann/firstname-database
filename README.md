@@ -93,7 +93,7 @@ Thus, "Jun+Wei" represents the names "Jun-Wei", "Jun Wei" and "Junwei".
 | Equivalent name pairs |     734 |
 
 | area                                   | number |
-| ----                                   | ------ |
+| ----                                   | ------:|
 | Names from Great Britain               |  2232  |
 | Names from Ireland                     |   876  |
 | Names from U.S.A.                      |  3916  |
